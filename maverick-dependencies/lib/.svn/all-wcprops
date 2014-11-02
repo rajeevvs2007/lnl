@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/149/trunk/maverick-dependencies/lib
+END
+spring-orm-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-orm-3.2.4.RELEASE.jar
+END
+mysql-connector-java-5.1.26-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/mysql-connector-java-5.1.26-bin.jar
+END
+hibernate-core-3.6.3.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/hibernate-core-3.6.3.Final.jar
+END
+jackson-mapper-asl-1.9.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/jackson-mapper-asl-1.9.10.jar
+END
+spring-context-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-context-3.2.4.RELEASE.jar
+END
+hibernate-commons-annotations-3.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/hibernate-commons-annotations-3.2.0.Final.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/commons-collections-3.1.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/commons-dbcp-1.4.jar
+END
+validation-api-1.0.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/55/trunk/maverick-dependencies/lib/validation-api-1.0.0.GA.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/aopalliance-1.0.jar
+END
+slf4j-api-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/slf4j-api-1.5.2.jar
+END
+slf4j-log4j12-1.5.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/slf4j-log4j12-1.5.2.jar
+END
+javassist-3.12.1.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/javassist-3.12.1.GA.jar
+END
+spring-jdbc-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-jdbc-3.2.4.RELEASE.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/antlr-2.7.7.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/commons-logging-1.1.1.jar
+END
+hibernate-jpa-2.0-api-1.0.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/dom4j-1.6.1.jar
+END
+standard-1.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/standard-1.1.2.jar
+END
+jstl-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/jstl-1.2.jar
+END
+spring-aop-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-aop-3.2.4.RELEASE.jar
+END
+spring-beans-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-beans-3.2.4.RELEASE.jar
+END
+hibernate-validator-4.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/55/trunk/maverick-dependencies/lib/hibernate-validator-4.2.0.Final.jar
+END
+spring-tx-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-tx-3.2.4.RELEASE.jar
+END
+spring-webmvc-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-webmvc-3.2.4.RELEASE.jar
+END
+ehcache-2.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/139/trunk/maverick-dependencies/lib/ehcache-2.8.1.jar
+END
+log4j-1.2.17.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/log4j-1.2.17.jar
+END
+jackson-core-asl-1.9.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/jackson-core-asl-1.9.10.jar
+END
+spring-web-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-web-3.2.4.RELEASE.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/jta-1.1.jar
+END
+spring-expression-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-expression-3.2.4.RELEASE.jar
+END
+spring-core-3.2.4.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/spring-core-3.2.4.RELEASE.jar
+END
+commons-beanutils-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/149/trunk/maverick-dependencies/lib/commons-beanutils-1.9.2.jar
+END
+commons-pool-1.5.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/commons-pool-1.5.4.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/maverick-dependencies/lib/servlet-api.jar
+END
